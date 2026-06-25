@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>螢幕擷取畫面 2026-06-25 010641.png</filename>
+	<path>/my-project-name/螢幕擷取畫面 2026-06-25 010641.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>406</width>
+		<height>323</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>48</ymin>
+			<xmax>289</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>
