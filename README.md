@@ -9,6 +9,10 @@
 - `test_dataset.py`: 針對資料集進行批次驗證與誤判分析之程式。
 - `haarcascade_fullbody.xml`: 專案基礎模型。
 
+## 參考資料
+內文有測試影片及最後成果
+還有資料集
+
 ## 安裝與執行說明
 
 ### 1. 環境需求
@@ -16,6 +20,3 @@
 ```bash
 pip install opencv-python numpy
 
-## 參考資料
-內文有測試影片及最後成果
-還有資料集
